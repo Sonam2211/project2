@@ -1,6 +1,6 @@
 # Twitter Wordcloud
 
-A simple web page where end user can search and analyze the tweet. Enter a hastag and a wordcloud for that hashtag would be generated and shown in a web page.
+A simple web page where end user can search and analyze the tweet. Enter a hashtag and a wordcloud for that hashtag would be generated and shown in a web page.
 
 [Tweepy](http://docs.tweepy.org/en/v3.5.0/getting_started.html#introduction) is used to connect to Twitter API with [Flask](http://flask.pocoo.org/) acting as the backend server.
 D3's [wordcloud](https://bl.ocks.org/jyucsiro/767539a876836e920e38bc80d2031ba7) is used to generate wordclouds.
